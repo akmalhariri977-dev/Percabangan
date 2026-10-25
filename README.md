@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+[Nama+Anda]+👋;Algorithm+Enthusiast;C%2B%2B+Developer;Problem+Solver;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+[Akmal+Hariri]+👋;Algorithm+Enthusiast;C%2B%2B+Developer;Problem+Solver;Always+Learning" alt="Typing SVG" />
 
   <h3>Programmer • C++ • Algorithm • Logic</h3>
 
